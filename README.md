@@ -11,6 +11,17 @@ Usage:
 ```
 $ python3 test.py
 ```
+## Gmail Configuration
+
+ Some configuration is needed for google's security purposes. If those settings are not set up, this code will not work.
+
+To allow the access, we need to set 'Less Secure App Access' settings in the google account. If the two step verification is on, we cannot use the less secure access.
+
+To complete this setup, follow the steps below:
+
+1. Login into you google account and click on "*Account*"
+
+![account](imagens/googleAccount.png "account")
 
 # How to contribute
 
